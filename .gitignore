@@ -1,0 +1,20 @@
+# Secrets: never commit these
+.env
+*.pem
+*.key
+credentials*
+kubeconfig*
+
+# Terraform (Module 3)
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# Python (Module 1)
+__pycache__/
+.venv/
+
+# Editor and system clutter
+.vscode/
+.DS_Store
