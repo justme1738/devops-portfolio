@@ -5,6 +5,6 @@
 - Docker and docker-compose: build and run containers daily
 - Git and GitHub pull-request workflow
 ## Certifications
-- LPI (write your exact certificate name)
+- LPI
 - Cisco CCNA
 - Cisco CCNP Enterprise (ENCOR)
