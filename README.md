@@ -8,9 +8,4 @@
 ## Certifications
 - LPI (write your exact certificate name)
 - Cisco CCNA
-- Cisco CCNP Enterprise (ENCOR) 
-
-## Certifications
-- LPI (write your exact certificate name)
-- Cisco CCNA
 - Cisco CCNP Enterprise (ENCOR)
