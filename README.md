@@ -4,3 +4,8 @@
 - Networking: routing and switching (CCNP level)
 - Docker
 - Git and GitHub pull-request workflow
+
+## Certifications
+- LPI (write your exact certificate name)
+- Cisco CCNA
+- Cisco CCNP Enterprise (ENCOR) 
