@@ -2,7 +2,7 @@
 ## Skills
 - Linux and Bash
 - Networking: routing and switching (CCNP level)
-- Docker
+- Docker: build and run daily containers
 - Git and GitHub pull-request workflow
 
 ## Certifications
